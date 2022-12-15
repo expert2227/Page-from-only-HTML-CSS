@@ -528,7 +528,7 @@ body {
 .stay-safe__img::after {
     content: "";
     position: absolute;
-    width: 206px;
+    width: 90%;
     height: 27px;
     left: 12px;
     bottom: -12px;
